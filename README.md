@@ -1,4 +1,3 @@
-[kythera-validation README.md](https://github.com/user-attachments/files/31428861/kythera-validation.README.md)
 # kythera-validation
 
 [![CI](https://github.com/obaser3791/kythera-validation/actions/workflows/ci.yml/badge.svg)](https://github.com/obaser3791/kythera-validation/actions/workflows/ci.yml)
@@ -282,3 +281,4 @@ pre-registered content in `config/` untouched unless the change is specifically 
 
 Onur Baser — onur.baser@sph.cuny.edu
 Graduate School of Public Health and Health Policy, City University of New York
+
